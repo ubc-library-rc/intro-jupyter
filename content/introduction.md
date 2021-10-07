@@ -18,6 +18,7 @@ These environments are not intended for developing complex applications but are 
 ## Why is reproducibility in research important?
 
 ![PhD Comics Computational Replicability](/images/research_comic_phd.gif)
+
 <em>Source: phdcomics.com, used in https://coderefinery.github.io/reproducible-research/01-motivation/</em>
 
 Computational reproducibility means that the next person who looks at your work is able to understand all steps you took to attain your results. They have access to the relevant data, the process, as well as the outputs. What's more they can even build onto what you've done without having to dig for pieces of your work that might be lost to time.
@@ -25,4 +26,4 @@ Computational reproducibility means that the next person who looks at your work 
 Ways of working reproducibly may include documenting process thoroughly; ensuring your data, process, and outputs are all fully available to future scholars; ensuring that everything is available under the most open copyright licenses allowable by your work.
 
 Explore the [Reproducibility and Replicability](https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/) section of UBC's Program for Open Scholarship in Education to learn more.
-{. note}
+{: .note}
