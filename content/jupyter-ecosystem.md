@@ -1,8 +1,7 @@
 ---
 layout: default
 title: The Jupyter Ecosystem
-nav_order: 4
-has_parent: Introduction
+nav_order: 5
 ---
 # The Jupyter Ecosystem
 
