@@ -37,4 +37,3 @@ Jupyter notebooks are the most widely used type of computational notebook though
 ## Sharing with others
 * .ipynb files can be shared through any file sharing system same as any other type of file format
 * Github will pre-load a Jupyter notebook automatically though as a static representation
-  * See example here:
