@@ -4,7 +4,7 @@ title: Outline
 nav_order: 1
 ---
 
-## Note: this workshop is in development and not yet complete.
+## Introduction to Jupyter
 
 Computational notebooks like Jupyter or Google Collaboratory are incredible helpful tools for exploring an idea without needing to set anything fancy up. They are also tools for creating complex documents with a mix of narrative, data, and code that can be run within the noteboook. This session will introduce you to common computational notebooks such as Jupyter (accessible for anyone at UBC via [UBC Syzygy](https://ubc.syzygy.ca/)) and [Google Collaboratory](https://research.google.com/colaboratory/) (accessible via a Google account). Participants will come away with a better understanding of how these tools function and what can be done with them.
 
